@@ -6,7 +6,7 @@ data class MobileWalletApp(
     var Description:String,
     var reference:String,
     var Date:String,
-    var amount:BigInteger,
+    var amount:String,
     var transactionType:String
 
 )
